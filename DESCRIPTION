@@ -1,0 +1,11 @@
+Package: MissingDataPLSreg
+Type: Package
+Title: Number of components acording to imputation method  (Title Case)
+Version: 0.1.0
+Author: Giovana Ciprián
+Maintainer: Giovana Ciprián <giovana.ciprian-herrera@etu.unistra.fr>
+Description: Estimate the number of components in a PLS regreesion acording to the imputation method the number of components will be estimate acording to the cross validation criteria. 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
